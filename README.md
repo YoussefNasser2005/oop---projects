@@ -1,33 +1,9 @@
-# Simple OOP Calculator (C++)
+# OOP Projects
 
-## بالعربي
-مشروع بسيط عملته للتدريب على **البرمجة الكائنية (OOP) بلغة C++**.  
-المشروع عبارة عن آلة حاسبة صغيرة بتعمل العمليات الأساسية:
-- جمع
-- طرح
-- ضرب
-- قسمة (مع التأكد من القسمة على صفر)
-- التراجع عن آخر عملية  
-
-### الهدف
-الغرض من المشروع إني أطبق مفاهيم OOP زي:
-- الكلاسات  
-- الخصائص (Attributes)  
-- الدوال (Methods)  
+ده مستودع خاص بجمع المشاريع اللي بعملها أثناء تدريبي على **Object-Oriented Programming (OOP) بلغة C++**.  
+المشاريع هنا منفصلة وكل واحد فيهم معمول علشان أطبق concepts مختلفة من الـ OOP.  
 
 ---
 
-## English
-A simple project I made to practice **Object-Oriented Programming (OOP) in C++**.  
-It’s a small calculator that performs the basic operations:
-- Addition
-- Subtraction
-- Multiplication
-- Division (with check for division by zero)
-- Undo last operation  
-
-### Goal
-The main idea is to apply OOP concepts such as:
-- Classes  
-- Attributes  
-- Methods
+This repository contains my training projects for practicing **Object-Oriented Programming (OOP) in C++**.  
+Each project is independent and focuses on applying different OOP concepts.
